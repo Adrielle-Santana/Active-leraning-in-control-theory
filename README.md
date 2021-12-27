@@ -3,6 +3,9 @@ This repository contains the data that support the study presented in the paper 
 
 # Description of the files
 
+- [SecondOrderSystem.pdf](https://github.com/Adrielle-Santana/Active-leraning-in-control-theory/blob/main/SecondOrderSystem.pdf): Second  order  system  built  using   amplifier   circuits  used as one partial challenge. The circuit was implemented in the online free application [Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html) and you can open the circuit of this second order system by importing the [SecondOrderSystem.txt](https://github.com/Adrielle-Santana/Active-leraning-in-control-theory/blob/main/SecondOrderSystem.txt) file in the application.
+
+
 # Licensing conditions
 
 The files in this repository are made available under the conditions of the [GNU Public License, version 3 or later](https://github.com/Adrielle-Santana/Active-leraning-in-control-theory/blob/main/LICENSE). No warranties. If you use the software or the data of this repository, please give credit.
